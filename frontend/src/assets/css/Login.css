@@ -1,0 +1,38 @@
+.login{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #3e96ffd1;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+.login_frame{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 25px 15px;
+    box-shadow: 10px 10px 5px rgba(143, 143, 143, 0.729);
+    min-width: 350px;
+}
+.login_header{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 18px;
+    font-weight: 500;
+}
+.login_header .login_logo{
+    width: 90px;
+    height: 70px;
+    margin: auto;
+    /* background-color: black; */
+}
+.login_logo img{
+    width: 100%;
+    height: 100%;
+}
+.login_button{
+    width: 100%;
+    border-radius: 25px!important;
+}

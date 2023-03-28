@@ -1,0 +1,18 @@
+.landing_page{
+    width: 80%;
+    margin: auto;
+    padding: 30px 10px;
+}
+.landing_page .card{
+    border-radius: 18px;
+}
+.landing_page .card .card-header{
+    background: #2a7ee6d1;
+    border-top-right-radius: 18px;
+    border-top-left-radius: 18px;
+}
+.landing_page .card .card-header h3{
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #fff!important;
+}

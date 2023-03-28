@@ -1,0 +1,7 @@
+*{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.App{
+  background-color: #f5f7fb;
+  min-height: 100vh;
+}

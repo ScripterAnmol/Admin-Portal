@@ -1,0 +1,18 @@
+.create_booking{
+    background-color: #fff;
+    width: 80%;
+    padding: 25px 15px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.create_booking .create_booking_header,.create_booking .create_booking_body{
+    width: 80%;
+    margin: auto;
+}
+.create_booking .create_booking_header{
+    margin-bottom: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
